@@ -10,5 +10,4 @@ The output of Whisper's transcription (.txt files)
 The output of Human's transcription (.txt files)
 
 The 2 programm we normalized and calculated the Levenshtein Distance and the Word error Rate with:
-- 
-- 
+
