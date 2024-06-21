@@ -1,5 +1,6 @@
 # Final-Project
-lindamazzone/Final-Progect--Introduction-to-Speech-Processing/Evaluating OpenAI’s Whisper and Human Transcription Accuracy on Low-Pass Filtered Speech at 2 kHz
+Final-Progect--Introduction to Speech Processing
+Evaluating OpenAI’s Whisper and Human Transcription Accuracy on Low-Pass Filtered Speech at 2 kHz
 
 The following files can be found in this repository:
 
